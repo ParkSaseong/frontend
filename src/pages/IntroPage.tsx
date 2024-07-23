@@ -1,5 +1,7 @@
 function IntroPage() {
-    return null;
+    return (
+        <h1>intropage</h1>
+    );
 }
 
 export default IntroPage;

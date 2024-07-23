@@ -1,7 +1,13 @@
-import styles from "../styles/logo.module.scss";
+import React from 'react';
+import styles from '../styles/logo.module.scss';
 
 function Logo() {
-    return null;
+    const onClick = () => {
+
+    }
+    return (
+        null
+    );
 }
 
 export default Logo;
